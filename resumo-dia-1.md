@@ -37,3 +37,4 @@
 ## O poder do GitHub para a sua carreira em programação
 - O GitHub é uma ferramenta poderosa para trabalhar em projetos de software, compartilhar o seu portfólio e mostrar para os recrutadores que você programa todos os dias
 - Cada verdinho no GitHub é uma prova de que você programou naquele dia. Por isso, ao utilizar o GitHub, você pode mostrar a todos que você está sempre colocando em prática o que está aprendendo e isso é muito importante para conquistar oportunidades na área.
+julia Rolim Regnes
